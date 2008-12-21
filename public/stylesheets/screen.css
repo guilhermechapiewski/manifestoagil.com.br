@@ -4,10 +4,10 @@ body {
   font-size: 20px;
   font-size-adjust: none;
   line-height: 1.7em;
-  background: white url(../images/background.png) repeat-x;
   padding: 14px 0 0 0;
-  color: #3D3D3D;
+  color: #222;
   text-align: center;
+  background: white url(../images/background.jpg);
 }
 
 div#container {
