@@ -73,6 +73,16 @@ ol#people li {
   text-align: center;
 }
 
+ul#principles {
+  margin: 40px 0;
+}
+
+ul#principles li {
+    text-align:center;
+    margin:20px 0;
+    font-weight:bold;
+}
+
 
 
 
