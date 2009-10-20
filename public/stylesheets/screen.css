@@ -28,6 +28,13 @@ strong {
   display: block;
 }
 
+.option {
+  clear: both;
+  text-align: center;
+  display: block;
+  margin: 30px 0 0 0;
+}
+
 h1 {
   font-weight: bold;
   font-size: 120%;
@@ -53,6 +60,7 @@ ol#values {
 ol#people {
   margin: 40px 0;
   font-size: 80%;
+  display: inline-block;
 }
 
 ol#people li {
@@ -78,9 +86,9 @@ ul#principles {
 }
 
 ul#principles li {
-    text-align:center;
-    margin:20px 0;
-    font-weight:bold;
+  text-align: center;
+  margin: 30px 0;
+  font-weight: bold;
 }
 
 
